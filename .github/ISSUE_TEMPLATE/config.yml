@@ -5,3 +5,6 @@ contact_links:
   - name: ❓ Question
     url: https://github.com/ptarmiganlabs/qs-util/discussions/new
     about: General questions
+  - name: 🪲 Bug report
+    url: https://github.com/ptarmiganlabs/qs-util/issues/new
+    about: Something isn't working?
