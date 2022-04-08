@@ -1,2 +1,2 @@
-# Client-managed Qlik Sense Enterprise on Windows (QSEoW)
+# Client-managed Qlik Sense Enterprise on Windows (QSEoW) resources
 
