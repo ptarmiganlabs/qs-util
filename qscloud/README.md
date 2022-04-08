@@ -1,0 +1,1 @@
+Qlik Sense Cloud resources
