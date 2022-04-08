@@ -26,7 +26,7 @@ Distributed under the MIT License. See LICENSE file for more information.
 
 ## :handshake: Contact
 
-Your Name - [LinkedIn](https://www.linkedin.com/in/gorsan/) - mountaindude at ptarmiganlabs dot com
+Göran Sander - [LinkedIn](https://www.linkedin.com/in/gorsan/) - mountaindude at ptarmiganlabs dot com
 
 Project Link: [https://github.com/ptarmiganlabs/qs-util](https://github.com/ptarmiganlabs/qs-util)
 
