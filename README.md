@@ -17,7 +17,10 @@ Feel free to contribute via pull requests!
 ### Qlik Sense Enterprise on Windows (client-managed)
 
 1. Backing up an entire Sense site. PowerShell. [Link](https://github.com/ptarmiganlabs/qs-util/blob/main/qseow/backup/qs-backup-system.ps1)
-2. Export all apps in Sense site to disk, incl metadata. PowerShell. [Link](https://github.com/ptarmiganlabs/qs-util/blob/main/qseow/export_apps_no_data/qseow_export_apps_no_data-qlik-cli-jwt.ps1)
+2. Export all apps in Sense site to disk, incl metadata. PowerShell, Qlik CLI. [Link](https://github.com/ptarmiganlabs/qs-util/blob/main/qseow/export_apps_no_data/qseow_export_apps_no_data-qlik-cli-jwt.ps1)
+3. Export all data connections to disk. PowerShell, Qlik CLI. [Link](https://github.com/ptarmiganlabs/qs-util/blob/main/qseow/export_data_connections/backup_data_connection.ps1)
+4. Export all security rules to disk. PowerShell. [Link](https://github.com/ptarmiganlabs/qs-util/blob/main/qseow/export_security_rules/backup_security_rule.ps1)
+5. Export all tags and custom properties to disk. PowerShell. [Link](https://github.com/ptarmiganlabs/qs-util/blob/main/qseow/export_tags_custom_properties/backup_tag_customproperty.ps1)
 
 ### Qlik Sense Cloud
 
